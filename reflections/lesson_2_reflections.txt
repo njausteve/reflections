@@ -1,2 +1,14 @@
-What happens when you initialize a repository? Why do you need to do it?.
+What happens when you initialize a repository? Why do you need to do it?
+
+.
 the .git file(git metadata is created) is added . To intitialize a git repository. 
+
+
+
+
+
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging Area contains extra git meta data concerning added files . 
