@@ -3,6 +3,12 @@ When I want to collaborate on a project I own or when I would like to make chang
 
 
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Making manual pulls would help in making sure changes are reflected to the local repo from the remote repo with latest code commits and changes.
 This can help avoid issues of conflict ...
+
+3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+     fork - are getting an existing copy of a repository that is not owned by you but is public to your own repository with all its metadata . (Any changes you make do not affect / display on their repo)
+    clones - make copy of a remote repository  to a local repository.
+    Branches - A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. 
